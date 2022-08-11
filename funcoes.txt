@@ -1,0 +1,12 @@
+subprograma dentro de programa principal; 
+    auxilia no momento da programação; 
+precisa ser chamado para que tenha seu código executado; 
+desvio provisório no fluxo; 
+podemos chamar várias vezes; 
+funções podem receber várias variáveis; 
+
+podem retornar valores ou não; 
+a função é flexível; 
+
+Correções de funções locais ou globais; 
+divisão do processo; 
