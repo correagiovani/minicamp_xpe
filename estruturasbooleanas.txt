@@ -1,0 +1,6 @@
+Estrutura de decisão 
+    Estrutura condicionar 
+    Concatenar condições e aplicar testes 
+    if / else if / else 
+    operador de comparadação 
+    
