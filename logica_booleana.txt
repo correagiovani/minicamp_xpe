@@ -1,0 +1,5 @@
+Como fazer o "e" e "ou" dentro de lógicas booleanas
+Operadores (e, ou e não) (and, or e not)
+expressão "e" && 
+expressão "ou" || 
+expressão "não" !A
