@@ -1,0 +1,15 @@
+<html>
+    <script>
+        //numeros primos são número divisiveis por ele mesmo e por 1, ou seja o resto dele é zero
+        //1 solicitar valor 
+        //2 verificar valor 
+        
+        const primo = (num) => {
+            for (let i =2; i < num; i++)
+                if (num % i === 0) {
+                    return false;
+                } 
+            return num > 1; 
+        };
+    </script>
+</html>

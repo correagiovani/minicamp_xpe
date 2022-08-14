@@ -1,0 +1,25 @@
+<html>
+    <script>
+        //ira receber uma lista com número e validará se o número de imput já está na lista 
+
+        var lista = [19, 54, 18, 11, 47, 98, 36, 44, 86]; 
+
+        //1- receber o número de parametro
+        //2- executar um for na lista e cada elemento e verificar se é igual ao número 
+        //3- quando encontrar, interromper a execução e retornar true
+        //4- se chegar aaté o fim sem encontrar, retornar false 
+
+
+        function verificaNumero(numero) {
+            var existe = false;
+            for (var i = 0; i < lista.length; i++) {
+                if (lista[i] === numero) {
+                    existe = true;
+                    break; //interrompe o processo e não precisa ir até o final; 
+                }
+                console.log(i, true);
+            }
+            return existe;
+        }
+    </script>
+</html>
