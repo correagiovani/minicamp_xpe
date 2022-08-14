@@ -1,0 +1,44 @@
+<html>
+    <script>
+        //armazenar um conjunto de elementos 
+        var carros = ["Gol", "Palio", "Uno"];
+        console.log(carros);
+
+        var primeiroCarro = carro[0];
+        var segundoCarro = carro[1];
+        var terceiroCarro = carro[2];
+        
+        console.log("primeira oposição: " + primeiroCarro);
+        console.log("segunda oposição: " + segundoCarro);
+        console.log("terceiro oposição: " + terceitoCarro); 
+
+        carros[2] = "Argo";
+        console.log(carros[2]);
+
+        console.log("tamanho do array: " + carros.length);
+        console.log("ultimo elemento do array: ")
+
+        //adicionando elementos adicionando indice; 
+        carros[3] = "Sandeiro"; 
+        console.log("ultimo elemento do array: " + carros[carros.length - 1]);
+
+        //caso eu não sabia o tamanho da array 
+        carros[carros.length] = "Civic"; 
+        console.log("ultimo elemento do array: " + carros[carros.length - 1]);
+        //adiciona um elemento no final da lista
+        carros.push("Polo");
+        console.log(carros);
+        //remover o elemento do final da lista 
+        console.log(carros.pop());
+        console.log(carros);
+        //adicionar elemento no inicio da lista 
+        console.unshift("Jetta");
+        console.log(carros);
+        //remover o primeiro elemento da lista
+        carros.shift();
+        console.log(carros);
+        //presentar os dados de listas que foram removidos
+        console.log(carros.shift());
+        console.log(carros);
+    </script>
+</html>

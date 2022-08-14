@@ -1,0 +1,14 @@
+listas, vetores ou arrays 
+    utilizado para armazernar diversar informações de um mesmo tipo 
+    ex: armazernar nome de alunos de uma escola
+    deixam de ser caixas com variáveis e passam ser organizadas; 
+    índice sempre começa em "0" posição do elemento na lista é chamado de índice
+
+estruturas de repetição 
+    executa uma ação várias vezes; 
+    utilizada para conjunto de listas/vetores; 
+    While (enquanto) e For (para); 
+    
+
+    
+
