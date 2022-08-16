@@ -1,0 +1,10 @@
+Liguagem de Marcação para hipertexto
+Não é uma liguagem de progração 
+Fonte de documentação
+Compõe semanticamente uma página, ou seja, com segmento de regras 
+Linguagem declarativa 
+Constituída por elementos 
+    Com tags 
+Conteúdo, atributos e valores;
+Iremos utilizar muito o console do Chorme 
+
