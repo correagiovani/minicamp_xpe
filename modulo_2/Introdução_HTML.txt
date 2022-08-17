@@ -7,4 +7,6 @@ Constituída por elementos
     Com tags 
 Conteúdo, atributos e valores;
 Iremos utilizar muito o console do Chorme 
+    o js é associado no final do body, geralmente 
+alt+shift+seta para baixo - copia dados da mesma linha para baixo
 

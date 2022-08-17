@@ -1,0 +1,19 @@
+Seletores de classe são procedidos de "." 
+Seletores de id são precedidos de "#"
+
+Exemplo
+h1 {
+    padding: 10px; 
+    margin:0 auto; 
+}
+
+Com seletor de classe e id 
+
+h1.fonte { 
+    ele ajusta a informação apenas para os itens que recebem a informação de "fonte"
+}
+
+#class {
+    nesse caso estou direcionando para quem possui o id "class"
+}
+
